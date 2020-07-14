@@ -1,5 +1,5 @@
-# Página web Freelance
+# Página web Freelancer
 
 ## Ejercicio de pagina web con html y css, usando flexbox
 
-### !!!Dale un vistazo el siguiente link!!! --> [Clic](https://ecstatic-wescoff-34c320.netlify.app/) <--
+### !!!Dale un vistazo el siguiente link!!! --> [Clic](https://serene-ardinghelli-9589c4.netlify.app/) <--
