@@ -196,6 +196,7 @@ form legend {
     color: white;
 }
 .campo input {
+    width: 100%;
     flex: 1;
     height: 4rem;
 }
